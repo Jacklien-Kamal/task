@@ -8,7 +8,6 @@ import { LuPlus } from "react-icons/lu";
 import { FaRegBell } from "react-icons/fa6";
 import { PiWechatLogoLight } from "react-icons/pi";
 import { FaRegHeart } from "react-icons/fa6";
-import { PiShoppingCartBold } from "react-icons/pi";
 import { BiCoin, BiMenuAltRight } from "react-icons/bi";
 import { PiCoinVertical } from "react-icons/pi";
 import { IoIosArrowDown } from "react-icons/io";
