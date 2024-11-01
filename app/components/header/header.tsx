@@ -30,7 +30,7 @@ export default function Header() {
           className="md:hidden flex items-center"
           onClick={toggleNavbar}
         >
-          <BiMenuAltRight className="text-2xl" />
+          <BiMenuAltRight className="text-2xl text-red-700" />
         </button>
   
         {/* Navigation items */}
@@ -108,6 +108,8 @@ export default function Header() {
               />
             </p>
             <IoIosArrowDown className="text-blue-500" />
+            <BiMenuAltRight className="text-3xl text-[#c02a2a] tranform scale-y-[-1] mx-3 hidden md:flex" />
+
           </div>
         </div>
   
