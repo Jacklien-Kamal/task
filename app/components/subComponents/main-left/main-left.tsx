@@ -177,7 +177,7 @@ export default function Main_Left() {
         {/* ////////////////////////////// */}
 
         <span className="flex items-center gap-3 font-bold">
-          <p className="w-[30px] h-[30px] flex justify-center items-center rounded-full bg-my-gradient-bg text-white text-3xl  ms-2  ">
+          <p className="w-[30px] h-[30px] xl:w-[50px] xl:h-[50px] flex justify-center items-center rounded-full bg-my-gradient-bg text-white text-3xl  ms-2  ">
             {" "}
             <span className="w-[28] h-[28] xl:w-[48px] xl:h-[48px] bg-white rounded-full flex items-center justify-center p-[7px]  xl:p-3 ">
               {" "}
@@ -206,7 +206,7 @@ export default function Main_Left() {
 
         <div className="border-l-[1px] border-solid h-7 border-blue-500 ms-6 xl:ms-8"></div>
         <span className="flex items-center gap-3 font-bold">
-        <p className="w-[30px] h-[30px] flex justify-center items-center rounded-full bg-my-gradient-bg text-white text-3xl  ms-2  ">
+        <p className="w-[30px] h-[30px] xl:w-[50px] xl:h-[50px] flex justify-center items-center rounded-full bg-my-gradient-bg text-white text-3xl  ms-2  ">
         {" "}
         <span className="w-[28] h-[28] xl:w-[48px] xl:h-[48px] bg-white rounded-full flex items-center justify-center p-[7px]  xl:p-3 ">
         {" "}
