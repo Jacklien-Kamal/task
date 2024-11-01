@@ -15,7 +15,7 @@ import { MdMusicVideo, MdOutlinePrivacyTip } from "react-icons/md";
 import { PiImagesSquareLight, PiRocket } from "react-icons/pi";
 import { SiApplemusic } from "react-icons/si";
 import { TbCurrentLocation } from "react-icons/tb";
-import Main_Right from "../subComponents/main-right";
+import Main_Right from "../subComponents/main-right/main-right";
 import Main_Left from "../subComponents/main-left/main-left";
 import Main_Top from "../subComponents/main-top/main-top";
 
